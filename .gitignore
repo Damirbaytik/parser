@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# Данные
+schedules/
+*.json
+*.html
+
+# IDE
+.vscode/
+.idea/
+
+# Временные файлы
+*.log
+*.tmp
+search_result_*.html
+
+# Проект classmate-connect
+тест кгасу/
+
+# Env файлы
+.env
