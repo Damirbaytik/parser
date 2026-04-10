@@ -10,9 +10,8 @@ ENV/
 env/
 
 # Данные
-schedules/
 *.json
-*.html
+parser_interactive.html
 
 # IDE
 .vscode/
